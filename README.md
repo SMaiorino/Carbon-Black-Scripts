@@ -1,3 +1,3 @@
 # Carbon-Black-Scripts
 
-## Scripts used to pull data from Carbon Black Protect & Response using the API's provided by the Carbon Black Team
+## Data Mining, RESTful API usage to organize our Carbon Black security software, remove malicious binaries from endpoints using a CB Response Watchlist
